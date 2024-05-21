@@ -1,0 +1,17 @@
+body{
+    overflow-x: hidden;
+}
+
+header{
+    background-color: rgb(32, 32, 32);
+    color: gold;
+}
+
+#stars{
+    color: gold;
+}
+
+#sec2{
+    background-color: rgb(49, 49, 49);
+    height: 100vh;
+}
